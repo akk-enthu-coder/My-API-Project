@@ -2,7 +2,7 @@
 const books = [
   {
     ISBN: "12345Book",
-    title: "Tesla !!",
+    title: "Tesla!!",
     pubDate: "2021-08-05",
     language: "en",
     numPage: 250,
